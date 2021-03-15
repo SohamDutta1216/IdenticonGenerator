@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Identicon Generator made with Elixir
 
 ## Installation
 
