@@ -2,6 +2,12 @@
 
 Identicon Generator made with Elixir
 
+To use this 
+1. Clone Repo
+2. run iex -S mix
+3. run Identicon.main() with whatever string you want as the argument
+4. Once run, a new png file will be created in your root folder with your identicon 
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
