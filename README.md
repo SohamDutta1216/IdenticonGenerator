@@ -1,4 +1,4 @@
-# Identicon
+# Identicon Generator using Elixer / Erlang
 
 Identicon Generator made with Elixir
 
